@@ -22,7 +22,6 @@ I'm a coder with a love for crafting seamless systems. From static websites to f
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/Arnie1x" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
-
 ### Badges
 
 <b>My GitHub Stats</b>
@@ -32,11 +31,3 @@ I'm a coder with a love for crafting seamless systems. From static websites to f
 <a href="http://www.github.com/Arnie1x"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Arnie1x&stroke=ffffff&background=1c1917&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/Arnie1x" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arnie1x&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/Arnie1x/msaada" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Arnie1x&repo=msaada&title_color=10b981&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Arnie1x/anga" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Arnie1x&repo=anga&title_color=10b981&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/Arnie1x/fixfinder" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Arnie1x&repo=fixfinder&title_color=10b981&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Arnie1x/luxe" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Arnie1x&repo=luxe&title_color=10b981&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
