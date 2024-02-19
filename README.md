@@ -26,8 +26,8 @@ I'm a coder with a love for crafting seamless systems. From static websites to f
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Arnie1x"><img src="https://github-readme-stats.vercel.app/api?username=Arnie1x&show_icons=true&hide=issues,contribs&count_private=true&title_color=10b981&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&show_icons=true" alt="Arnie1x's GitHub stats" /></a>
+<a href="http://www.github.com/Arnie1x"><img src="https://github-readme-stats.vercel.app/api?username=Arnie1x&show_icons=true&hide=issues,contribs&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Arnie1x's GitHub stats" /></a>
 
-<a href="http://www.github.com/Arnie1x"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Arnie1x&stroke=ffffff&background=1c1917&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/Arnie1x"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Arnie1x&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/Arnie1x" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arnie1x&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/Arnie1x" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arnie1x&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
