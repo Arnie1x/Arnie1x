@@ -11,7 +11,7 @@ I'm a coder with a love for crafting seamless systems. From static websites to f
 * ✉️  You can contact me at [arnold.odhiambo.soi@gmail.com](mailto:arnold.odhiambo.soi@gmail.com)
 * 🚀  I'm currently working on [Luxe](http://github.com/Arnie1x/luxe)
 * 🧠  I'm learning Nuxt, PyTorch and FastAPI
-* 🤝  I'm open to collaborating on Various Web Projects, Game Development Projects and Applications
+* 🤝  I'm open to collaborating on Various Web Projects and Applications
 
 ### Skills
 
