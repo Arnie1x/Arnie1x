@@ -4,6 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Science Student and Full Stack Developer
 -------------------------------------------------
 
+[![wakatime](https://wakatime.com/badge/user/018d07e6-c1fc-4544-ab09-e4dadbe6c182.svg)](https://wakatime.com/@018d07e6-c1fc-4544-ab09-e4dadbe6c182)
+
 I'm a coder with a love for crafting seamless systems. From static websites to full-stack applications, I thrive on turning ideas into elegant and functional solutions. My journey in coding has been fueled by a relentless curiosity and a deep-seated passion for creating impactful digital experiences.
 
 * 🌍  I'm based in Nairobi, Kenya
