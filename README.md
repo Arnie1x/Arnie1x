@@ -7,7 +7,7 @@ Computer Science Student and Full Stack Developer
 I'm a coder with a love for crafting seamless systems. From static websites to full-stack applications, I thrive on turning ideas into elegant and functional solutions. My journey in coding has been fueled by a relentless curiosity and a deep-seated passion for creating impactful digital experiences.
 
 * 🌍  I'm based in Nairobi, Kenya
-* 🚀  I'm currently working on [Luxe](http://github.com/Arnie1x/luxe)
+* 🚀  I'm currently working on [FarmFlow](http://github.com/Arnie1x/farmflow)
 * 🧠  I'm learning Nuxt, TensorFlow and FastAPI
 * 🤝  I'm open to collaborating on various Web Projects and ML/AI Applications
 
