@@ -9,7 +9,7 @@ I'm a coder with a love for crafting seamless systems. From static websites to f
 * 🌍  I'm based in Nairobi, Kenya
 * 🧠  I'm learning React, Next.js and TensorFlow
 * 🤝  I'm open to collaborating on various Web Projects and ML/AI Applications
-* 🖥️  My [linux dotfiles](https://github.com/Arnie1x/dotfiles) for those who are interested
+* 🖥️  My [Linux dotfiles](https://github.com/Arnie1x/dotfiles) for those who are interested
 
 ### Skills
 
