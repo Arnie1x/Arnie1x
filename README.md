@@ -7,7 +7,7 @@ Full Stack Developer
 I'm a coder with a love for crafting seamless systems. From static websites to full-stack applications, I thrive on turning ideas into elegant and functional solutions. My journey in coding has been fueled by a relentless curiosity and a deep-seated passion for creating impactful digital experiences.
 
 * 🌍  I'm based in Nairobi, Kenya
-* 🧠  I'm learning React, Next.js and TensorFlow
+* 🧠  I'm learning React, Next.js and TensorFlow. Currently mastering Flutter and Supabase.
 * 🤝  I'm open to collaborating on various Web Projects and ML/AI Applications
 * 🖥️  My [Linux dotfiles](https://github.com/Arnie1x/dotfiles) for those who are interested
 
